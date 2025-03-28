@@ -28,6 +28,8 @@ Make sure your lighting is good for accurate tracking.
 
 ## ▶️ How to Run
 
+please download the zip file first. open in VS code or other code interpreter.
+
 ```bash
 # Activate virtual environment
 .env\Scriptsctivate
